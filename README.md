@@ -27,10 +27,11 @@ information.
 |-----------------------------|------------------|
 | Ticker                      | GROW       |
 | Chain ID                      | 310324       |
+| Website                      | https://mrgrower.eu  |
 | Public RPC URL                   | https://rpc.mrgrower.eu  |
 | Public Explorer URL                    | https://explorer.mrgrower.eu  |
-| P2P Port                    | 30303   |
-| RPC Port                    | 8545   |
+| P2P Port                    | 30303 (default)  |
+| RPC Port                    | 8545 (default)  |
 
 
 
