@@ -39,4 +39,4 @@ information.
 Installation
 -------
 
-Are you looking forward to run your own ASC Full Node? Here is a detailed step by step guide: [Official Documentation](INSTALL.md)
+Are you looking forward to run your own GROW Full Node? Here is a detailed step by step guide: [Official Documentation](INSTALL.md)
