@@ -22,13 +22,13 @@ information.
 | Token Standards                   | ERC-20, ERC-721, ERC-1155   |
 
 
-### GROW MainNet
+### GROW TestNet
 | **Coin Head**               | **Value**        |
 |-----------------------------|------------------|
 | Ticker                      | GROW       |
 | Chain ID                      | 310324       |
 | Website                      | https://mrgrower.org  |
-| Public RPC URL                   | https://rpc.mrgrower.org  |
+| Public RPC URL                   | https://rpc.tn.mrgrower.org  |
 | Public Explorer URL                    | https://explorer.mrgrower.org  |
 | P2P Port                    | 30303 (default)  |
 | RPC Port                    | 8545 (default)  |
