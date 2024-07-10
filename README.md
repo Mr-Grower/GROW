@@ -18,7 +18,8 @@ information.
 |-----------------------------|------------------|
 | Concensus                      | QBFT Proof of Authority       |
 | Average Block Time                  | 10 Seconds       |
-| Block reward              | 0.001 GROW
+| Block reward              | 0.001 GROW    |
+| Staking reward (200 AAK token collateral) | 0.00015 |
 | Total Supply             | Infinite |
 | Token Standards                   | ERC-20, ERC-721, ERC-1155   |
 
