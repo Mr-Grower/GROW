@@ -17,7 +17,7 @@ information.
 | **Coin Head**               | **Value**        |
 |-----------------------------|------------------|
 | Concensus                      | QBFT Proof of Authority       |
-| Average Block Time                  | 60 Seconds       |
+| Average Block Time                  | 10 Seconds       |
 | Total Supply             | Infinite |
 | Token Standards                   | ERC-20, ERC-721, ERC-1155   |
 
@@ -27,9 +27,9 @@ information.
 |-----------------------------|------------------|
 | Ticker                      | GROW       |
 | Chain ID                      | 310324       |
-| Website                      | https://mrgrower.eu  |
-| Public RPC URL                   | https://rpc.mrgrower.eu  |
-| Public Explorer URL                    | https://explorer.mrgrower.eu  |
+| Website                      | https://mrgrower.org  |
+| Public RPC URL                   | https://rpc.mrgrower.org  |
+| Public Explorer URL                    | https://explorer.mrgrower.org  |
 | P2P Port                    | 30303 (default)  |
 | RPC Port                    | 8545 (default)  |
 
