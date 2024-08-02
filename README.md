@@ -17,7 +17,7 @@ information.
 | **Coin Head**               | **Value**        |
 |-----------------------------|------------------|
 | Concensus                      | QBFT Proof of Authority       |
-| Average Block Time                  | 10 Seconds       |
+| Average Block Time                  | 5 Seconds       |
 | Block reward              | 0.001 GROW    |
 | Staking reward (200 AAK token collateral) | 0.00015 GROW |
 | Total Supply             | Infinite |
