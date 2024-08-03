@@ -12,4 +12,4 @@ Before you begin, ensure you have the following:
 ### One line setup command:
 Login into your linux server and run following command.
 ```
-wget -O - https://github.com/Mr-Grower/GROW/releases/download/v1.0/install_client-testnet.sh | bash
+wget -O - https://github.com/Mr-Grower/GROW/releases/download/v1.0/install-testnet.sh | bash
