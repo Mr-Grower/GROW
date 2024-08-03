@@ -31,7 +31,7 @@ information.
 | Chain ID                      | 310324       |
 | Website                      | https://mrgrower.org  |
 | Public RPC URL                   | https://rpc.testnet.mrgrower.org  |
-| Public Explorer URL                    | https://explorer.mrgrower.org  |
+| Public Explorer URL                    | https://explorer.mrgrower.org (coming soon) |
 | P2P Port                    | 30303 (default)  |
 | RPC Port                    | 8545 (default)  |
 
