@@ -30,7 +30,7 @@ information.
 | Ticker                      | GROW       |
 | Chain ID                      | 310324       |
 | Website                      | https://mrgrower.org  |
-| Public RPC URL                   | https://rpc.tn.mrgrower.org  |
+| Public RPC URL                   | https://rpc.testnet.mrgrower.org  |
 | Public Explorer URL                    | https://explorer.mrgrower.org  |
 | P2P Port                    | 30303 (default)  |
 | RPC Port                    | 8545 (default)  |
@@ -41,4 +41,4 @@ information.
 Installation
 -------
 
-Are you looking forward to run your own GROW Full Node? Here is a detailed step by step guide: [Official Documentation](INSTALL.md)
+Are you looking forward to run your own GROW Full Node? Here is a detailed step by step guide: [Official Documentation](INSTALL-testnet.md)
