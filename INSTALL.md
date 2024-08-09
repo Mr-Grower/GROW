@@ -13,14 +13,10 @@ Before you begin, ensure you have the following:
 Login into your linux server and run following command.
 ```
 wget -O - https://github.com/Mr-Grower/GROW/releases/download/v1.0/install_client.sh | bash
-cd /data/grownetwork/
+cd /data/grownetwork/data
+sudo nano key
+0xXXXXXXXXXXXX  # store your private key that corresponds to the address you left in the allowlist and save file
+cd ..
 export JAVA_HOME=/usr/lib/jvm/jdk-21
 grower --config-file=config.toml & # To start client...
-```
-
-Remember to save your private key that corresponds to the address you left in the allowlist in /data/grownetwork/data/key like this:
-
-```
-sudo nano /data/grownetwork/data/key
-0xXXXXXXXXXXXX  # store your key here and save file
 ```
