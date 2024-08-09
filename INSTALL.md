@@ -18,5 +18,5 @@ sudo nano key
 0xXXXXXXXXXXXX  # store your private key that corresponds to the address you left in the allowlist and save file
 cd ..
 export JAVA_HOME=/usr/lib/jvm/jdk-21
-grower --config-file=config.toml & # To start client...
+grower --config-file=config.toml # To start client...
 ```
