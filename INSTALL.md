@@ -12,9 +12,9 @@ Before you begin, ensure you have the following:
 ### One line setup command:
 Login into your linux server and run following command.
 ```
-wget -O - https://github.com/Mr-Grower/GROW/releases/download/v1.0/install-testnet.sh | bash
-cd /data/growtestnetwork/
+wget -O - https://github.com/Mr-Grower/GROW/releases/download/v1.0/install_client.sh | bash
+cd /data/grownetwork/
+export JAVA_HOME=/usr/lib/jvm/jdk-21
 grower --config-file=config.toml & # To start client...
 ```
 
-Remember change variable "miner-coinbase" to your address in /data/growtestnetwork/config.toml 
