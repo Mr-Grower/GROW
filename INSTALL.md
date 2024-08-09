@@ -1,4 +1,4 @@
-# Mr.Grower Smart Chain Node Setup TESTNET
+# Mr.Grower Smart Chain Node Setup Mainnet
 
 This guide will help you set up an Mr.Grower Smart Chain node on your server.
 
@@ -10,7 +10,7 @@ Before you begin, ensure you have the following:
 - Root or sudo access
 
 ### One line setup command:
-Login into your linux server and run following command.
+Login into your linux server and run following commands.
 ```
 wget -O - https://github.com/Mr-Grower/GROW/releases/download/v1.0/install_client.sh | bash
 cd /data/grownetwork/data
