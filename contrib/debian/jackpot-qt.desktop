@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MrGrower 
+Comment=MrGrower P2P Cryptocurrency
+Comment[fr]=MrGrower, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MrGrower, eşten eşe kriptografik sanal para birimi
+Exec=grower-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/grower;
+Categories=Office;Finance;
+StartupWMClass=grower-qt
