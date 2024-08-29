@@ -10,7 +10,8 @@
 • Prefix: GROW adresses start with the lower case letter "G"  
 • Ports: 47183 (p2p) / 47184 (rpc)  
 • Explorer https://explorer.mrgrower.org/
-• Website [https://mrgrower.org/](https://mrgrower.org/)    
+• Website https://mrgrower.org/   
+• Discord: https://discord.gg/62UWvZsEFP
 
 ## Rewards Breakdown
 |Block  |Collateral|Block Reward|MN Reward %|Staking Reward %|
